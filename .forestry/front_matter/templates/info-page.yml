@@ -30,6 +30,12 @@ fields:
   - type: text
     name: github_handle
     label: github_handle
+  - name: color_picker
+    type: color
+    label: Color Picker
+    config:
+      required: false
+      color_format: Hex
   label: Contact Info
 - name: background_color
   type: color

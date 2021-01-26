@@ -22,6 +22,8 @@ fields:
   - type: text
     name: email
     label: email
+    config:
+      required: true
   - type: text
     name: twitter_handle
     label: twitter_handle

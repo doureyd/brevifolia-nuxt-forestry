@@ -4,8 +4,9 @@
   "contact": {
     "email": "info@forestry.io",
     "twitter_handle": "forestryio",
-    "github_handle": "forestryio"
+    "github_handle": "forestryio",
+    "color_picker": ""
   },
-  "background_color": "#B1BCBC",
+  "background_color": "#FFFFFF",
   "text_color": "#ebebeb"
 }

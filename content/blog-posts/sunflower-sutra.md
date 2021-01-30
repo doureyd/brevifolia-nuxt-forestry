@@ -1,8 +1,8 @@
 ---
-author: Allen Ginsberg
+author: Friedrich Nietzsche
 title: Sunflower Sutra
 slug: sunflower-sutra
-date: 2019-08-01T07:00:00Z
+date: 2019-08-02T07:00:00Z
 hero_image: "/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 
 ---
